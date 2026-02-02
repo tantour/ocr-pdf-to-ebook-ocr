@@ -1,0 +1,5 @@
+mistralai
+gradio
+python-dotenv
+pypandoc
+EbookLib

@@ -20,7 +20,7 @@ A powerful web application built with Gradio that leverages Mistral AI's OCR cap
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/tantour/ocr-pdf-to-ebook-ocr
    cd gradioapp
    ```
 
